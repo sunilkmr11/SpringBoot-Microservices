@@ -11,8 +11,8 @@
 	<groupId>com.techefx.microservices</groupId>
 	<artifactId>techefx-spring-cloud-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>techefx-spring-cloud-config-server</name>
-	<description>Demo project for Spring Boot</description>
+	<name>spring-cloud-config-server</name>
+	<description>Demo project for Spring Boot Microservices</description>
 
 	<properties>
 		<java.version>14</java.version>
